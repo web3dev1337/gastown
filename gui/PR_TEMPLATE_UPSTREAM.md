@@ -413,7 +413,7 @@ This was built with Claude Code over the course of a week. I ran out of Claude M
 
 **Demo Video:**
 
-Watch the GUI in action: [View demo video on YouTube/Vimeo](https://example.com/demo-video) *(link to be updated)*
+Watch the GUI in action: https://x.com/BlueShrimpGames/status/2008383690221781445
 
 The video demonstrates:
 - Rig creation workflow
